@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 22 18:54:43 2019
-
-@author: Shyam Parmar
-"""
 #Implementation of logistic regression from scratch
 
 import numpy as np
