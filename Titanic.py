@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 21 12:30:02 2019
-
-@author: Shyam Parmar
-"""
-
 import numpy as np                # numpy is numerical python. Used for performing scientific calculaations
 import pandas as pd               # pandas is used for data analysis
 import seaborn as sns             # seaborn is a library for statistical plotting/ statistical data visualisation
