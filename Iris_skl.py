@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 22 19:12:25 2019
-
-@author: Shyam Parmar
-"""
+#Implementation of logistic regression by skl 
 
 import numpy as np
 import pandas as pd
