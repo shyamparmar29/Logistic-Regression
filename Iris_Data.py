@@ -4,6 +4,8 @@ Created on Fri Feb 22 18:54:43 2019
 
 @author: Shyam Parmar
 """
+#Implementation of logistic regression from scratch
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
